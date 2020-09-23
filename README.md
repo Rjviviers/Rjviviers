@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a new app, link to come**
 
-- 🌱 I’m currently learning **Flutter and js frameworks**
+- 🌱 I’m currently learning **Flutter, Laravel and Vue**
 
 - 👨‍💻 Some of my projects are available at [https://www.web2seo.co.za/](https://www.web2seo.co.za/)
 
