@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruan Viviers</h1>
 <h3 align="center">A passionate developer from South Africa</h3>
 
-- 🔭 I’m currently working on **a new app, link to come**
-
 - 🌱 I’m currently learning **Flutter,Dart and emulators**
-
-- 👨‍💻 Some of my projects are available at [https://www.web2seo.co.za/](https://www.web2seo.co.za/)
-
-- 📝 Website made And manage [https://www.fotodiscountworld.co.za](https://www.fotodiscountworld.co.za)
 
 - 📫 How to reach me **rjviviers@gmail.com**
 
